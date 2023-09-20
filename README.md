@@ -34,8 +34,7 @@ If you'd like to collaborate on a project, have any questions, or just want to s
 <p align="left">
 <a href="https://www.linkedin.com/in/amir-hormozi-nik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12646938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-  <a href="https://t.me/ahn_404" target="blank"><img align="center" src="https://github.com/amir-hormozi/amir-hormozi/assets/23221497/0e7d39fa-8468-4e86-93ff-de3f37006afd" alt="" height="35" width="45" /></a>
-
+  
 </p>
 <br/>
 
