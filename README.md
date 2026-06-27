@@ -4,7 +4,7 @@ Hello, I'm Amir Hormozi Nik, an iOS developer with a passion for creating engagi
 
 ## About Me
 
-- 🔭 I have over 7 years of experience in iOS development.
+- 🔭 I have over 8 years of experience in iOS development.
 - 🚀 I'm passionate about building user-friendly and performant applications using **Swift**, **SwiftUI**, and modern Apple frameworks.
 - 🧩 I enjoy solving complex problems and working collaboratively with agile, cross-functional teams.
 - 🌐 I'm experienced in scalable system design and multiple software architectures like VIP, VIPER, and MVVM.
